@@ -6,3 +6,5 @@ if Motor3 == 90:
     print("Correto a 90°")
 if Motor1 ==("bajo"):
     print("esta en posicion")
+if Motor2 == 0:
+    print("esta cerrada la pinza")
